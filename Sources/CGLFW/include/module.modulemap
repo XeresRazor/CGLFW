@@ -1,5 +1,0 @@
-module CGLFW {
-    header "../../Headers/CGLFW-Bridging-Header.h"
-    link "glfw3"
-    export *
-}
